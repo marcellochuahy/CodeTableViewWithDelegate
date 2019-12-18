@@ -1,0 +1,6 @@
+framework module Pods_CodeViewWithDelegate {
+  umbrella header "Pods-CodeViewWithDelegate-umbrella.h"
+
+  export *
+  module * { export * }
+}
